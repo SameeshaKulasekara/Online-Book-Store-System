@@ -1,0 +1,29 @@
+*{
+    margin: 2px;
+    padding: 1px;
+}
+
+#terms{
+    width: auto;
+    height: auto;
+    padding:0px 100px;
+    background-color: #000000;
+    margin-top: -20px;
+    color: #ffffff; 
+    
+ }
+
+ .vertical-align {
+    position: relative;
+    top: 35%;
+    transform: translateY(-50%);
+}
+
+strong {
+    font-weight: 900;
+}
+
+p {
+    line-height: 24px;
+    font-weight: 300px;
+}
